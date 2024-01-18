@@ -1,7 +1,7 @@
 {
-  "name": "Alexi Node",
-  "website": "https://github.com/alexigithub",
-  "description": "i'm just a dude running a node",
-  "logo": "https://learn.foundry.com/mari/Content/Resources/images/reference/atlas_random1.jpg",
-  "twitter": "https://twitter.com/CryptoAlexi",
+  "name": "Some operator",
+  "website": "https://www.example.com",
+  "description": "I operate on some data",
+  "logo": "https://www.example.com/logo.png",
+  "twitter": "https://x.com/example"
 }
